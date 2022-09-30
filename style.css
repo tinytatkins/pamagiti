@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin: 10;
+    font-family: PlayfairDisplay;
+    font-style: italic;
+    font-size: 16px;
+    font-style: oblique;
+  }
+  input {
+    display: inline-block;
+    margin: 20px auto;
+    border: 2px solid #eee;
+    padding: 10px 20px;
+    font-family: PlayfairDisplay;
+    font-size: 16px;
+  }
+
+  .tdItem {
+    text-align: left;
+    padding: 10px;
+    cursor: default;
+    border-radius: 7px;
+  }
+
+  .tdItem:hover {
+    background-color: lightgreen;
+  }
