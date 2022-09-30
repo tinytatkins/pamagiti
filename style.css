@@ -5,23 +5,24 @@ body {
     font-style: italic;
     font-size: 16px;
     font-style: oblique;
-  }
-  input {
+}
+
+input {
     display: inline-block;
     margin: 20px auto;
     border: 2px solid #eee;
     padding: 10px 20px;
     font-family: PlayfairDisplay;
     font-size: 16px;
-  }
+}
 
-  .tdItem {
+.tdItem {
     text-align: left;
     padding: 10px;
     cursor: default;
     border-radius: 7px;
-  }
+}
 
-  .tdItem:hover {
+.tdItem:hover {
     background-color: lightgreen;
-  }
+}
